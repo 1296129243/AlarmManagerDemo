@@ -1,0 +1,7 @@
+#Thu Sep 07 14:21:11 CST 2017
+base.0=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab3effb4fd533484a36960d745b4a6f02efba0c8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c4305db6d3935c04660ee44f41fe52e673a4722f\\classes.dex
+base.1=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c4305db6d3935c04660ee44f41fe52e673a4722f
+file.0=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab3effb4fd533484a36960d745b4a6f02efba0c8\\classes.dex

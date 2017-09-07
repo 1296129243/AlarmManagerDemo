@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Sep 07 14:21:11 CST 2017
+2.base=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c4305db6d3935c04660ee44f41fe52e673a4722f\\classes.dex
+5.set=DEX
+3.base=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab3effb4fd533484a36960d745b4a6f02efba0c8\\classes.dex
+5.base=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c4305db6d3935c04660ee44f41fe52e673a4722f
+4.set=ANDROID_RESOURCE
+6.base=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+1.set=ANDROID_RESOURCE
+7.base=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ab3effb4fd533484a36960d745b4a6f02efba0c8
+3.file=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=DEX

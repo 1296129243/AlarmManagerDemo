@@ -1,0 +1,4 @@
+#Thu Sep 07 14:21:11 CST 2017
+base.0=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_8a71d12ffa5bcfd5a19504199937152106606b2b
+renamed.0=classes.dex
+file.0=E\:\\dev\\asworkspace\\AlarmManagerDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_8a71d12ffa5bcfd5a19504199937152106606b2b\\classes.dex
